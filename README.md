@@ -1,8 +1,8 @@
 ## Hi there 👋
 ### My name is Mohammad Sayadi
 
-[![roadmap.sh](https://roadmap.sh/card/wide/68db989ddcae303877edda7b?variant=dark)](https://roadmap.sh)
 
+[![roadmap.sh](https://roadmap.sh/card/tall/68db989ddcae303877edda7b?variant=dark)](https://roadmap.sh)
 <!--
 **MohammadSayadi7/MohammadSayadi7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
